@@ -1,3 +1,5 @@
 # spring-session-redis
 
-project to the the Spring Session with Redis to storage important infos on the DB
+Project used to practice the basic concepts about Spring Session and Redis
+
+With this study I learn how to configure a basic Session storage
